@@ -1,1 +1,1 @@
-# vuex_store
+# Shopping cart using vuex
